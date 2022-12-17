@@ -12,7 +12,7 @@
 
 > skills
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)![React](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=React)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Sublime](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Sublime)
 
@@ -42,17 +42,7 @@
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrydeep"/>
 </div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/jafrydeep/jafrydeep/assets/github-contribution-grid-snake.svg" />
-</div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jafrydeep&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FDhaka"/>
-</div>
 
 # 🌱Social
 
@@ -60,4 +50,4 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=jafrydeep&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-![](https://stats.justsong.cn/api/github?username=jafrydeep)![](https://stats.justsong.cn/api/zhihu?username=jafrydeep)
+![](https://stats.justsong.cn/api/github?username=jafrydeep)
