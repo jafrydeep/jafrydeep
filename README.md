@@ -2,7 +2,7 @@
 
 - 🤔 Jafry Mondol Deep
 - 💬 Learning new things daily ~
-- 📫 jafrybd42@gmail.com
+- 📫 deepjafry@gmail.com
 - 🚀 [Portfolio : Take a Look](https://jafry.netlify.app)
 
 
