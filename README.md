@@ -90,7 +90,3 @@
 <img src="https://raw.githubusercontent.com/jafrydeep2/jafrydeep2/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
